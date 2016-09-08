@@ -1,3 +1,6 @@
+#PNGs Folder Contents
+The folder contains the latest image exports as they are created or changed.
+
 # Big Data Processes Master Sketch File
 This sketch file includes various big data processes and flows. Files will need layer cleanup/organization as it becomes maintained over time. 
 
